@@ -1,0 +1,609 @@
+﻿iso_code,Team,Conference,City,State,Year,Wins,Losses,Ties,Solo_Tackles,Assisted_Tackles,Sacks,Tackles_For_Loss,Pass_Deflections,Interceptions,Interception_TDs,Forced_Fumbles,Fumbles_Recovered,Fumble__TDs,Kicks_Blocked
+BB,Buffalo Bills,AFC East,Buffalo,New York,2004,9,7,0,776,377,45,0,225,24,4,21,0,0,1
+BB,Buffalo Bills,AFC East,Buffalo,New York,2005,5,11,0,853,357,38,0,189,17,1,16,0,0,0
+BB,Buffalo Bills,AFC East,Buffalo,New York,2006,7,9,0,882,368,40,0,189,13,2,17,0,2,1
+BB,Buffalo Bills,AFC East,Buffalo,New York,2007,7,9,0,866,262,26,0,80,18,2,12,0,1,0
+BB,Buffalo Bills,AFC East,Buffalo,New York,2008,7,9,0,832,227,24,0,73,10,3,15,0,0,1
+BB,Buffalo Bills,AFC East,Buffalo,New York,2009,6,10,0,949,362,32,0,81,28,2,13,0,0,1
+BB,Buffalo Bills,AFC East,Buffalo,New York,2010,4,12,0,911,426,27,0,77,11,2,18,0,1,0
+BB,Buffalo Bills,AFC East,Buffalo,New York,2011,6,10,0,818,310,29,0,67,20,4,17,0,2,3
+BB,Buffalo Bills,AFC East,Buffalo,New York,2012,6,10,0,804,288,36,0,76,12,1,24,0,0,5
+BB,Buffalo Bills,AFC East,Buffalo,New York,2013,6,10,0,826,377,57,0,90,23,2,12,0,1,0
+BB,Buffalo Bills,AFC East,Buffalo,New York,2014,9,7,0,794,305,54,0,75,19,0,15,11,1,3
+BB,Buffalo Bills,AFC East,Buffalo,New York,2015,8,8,0,742,247,21,0,88,17,2,13,8,1,0
+BB,Buffalo Bills,AFC East,Buffalo,New York,2016,7,9,0,773,337,39,86.5,73,12,1,13,6,2,1
+BB,Buffalo Bills,AFC East,Buffalo,New York,2017,6,10,0,803,347,27,88.5,81,18,1,19,7,2,0
+BB,Buffalo Bills,AFC East,Buffalo,New York,2018,6,10,0,758,287,36,108,71,16,0,24,11,1,0
+BB,Buffalo Bills,AFC East,Buffalo,New York,2019,10,6,0,729,303,44,116,83,14,0,16,9,0,2
+BB,Buffalo Bills,AFC East,Buffalo,New York,2020,13,3,0,752,293,38,97,76,15,2,15,11,1,0
+BB,Buffalo Bills,AFC East,Buffalo,New York,2021,11,6,0,767,343,42,92,80,19,1,13,11,0,2
+BB,Buffalo Bills,AFC East,Buffalo,New York,2022,13,3,0,779,349,40,93,90,17,1,12,10,0,1
+MD,Miami Dolphins,AFC East,Miami,Florida,2004,4,12,0,749,420,36,0,190,15,0,18,0,1,0
+MD,Miami Dolphins,AFC East,Miami,Florida,2005,9,7,0,827,340,49,0,226,14,0,22,0,1,0
+MD,Miami Dolphins,AFC East,Miami,Florida,2006,6,10,0,762,364,47,0,218,8,2,27,0,1,1
+MD,Miami Dolphins,AFC East,Miami,Florida,2007,1,15,0,854,220,30,0,56,14,1,14,0,1,1
+MD,Miami Dolphins,AFC East,Miami,Florida,2008,11,5,0,831,255,30,0,73,12,1,12,0,1,3
+MD,Miami Dolphins,AFC East,Miami,Florida,2009,7,9,0,850,182,44,0,76,15,1,14,0,1,0
+MD,Miami Dolphins,AFC East,Miami,Florida,2010,7,9,0,836,167,39,0,81,11,0,15,0,1,1
+MD,Miami Dolphins,AFC East,Miami,Florida,2011,6,10,0,819,182,41,0,64,16,1,13,0,0,2
+MD,Miami Dolphins,AFC East,Miami,Florida,2012,7,9,0,812,228,42,0,66,10,0,19,0,0,3
+MD,Miami Dolphins,AFC East,Miami,Florida,2013,8,8,0,854,245,42,0,77,18,2,12,0,0,2
+MD,Miami Dolphins,AFC East,Miami,Florida,2014,8,8,0,819,200,39,0,57,14,2,14,11,1,5
+MD,Miami Dolphins,AFC East,Miami,Florida,2015,6,10,0,815,274,31,0,69,13,3,8,3,0,1
+MD,Miami Dolphins,AFC East,Miami,Florida,2016,10,6,0,743,400,33,96.5,73,16,1,17,9,0,4
+MD,Miami Dolphins,AFC East,Miami,Florida,2017,6,10,0,746,274,30,84.5,53,9,1,12,6,2,3
+MD,Miami Dolphins,AFC East,Miami,Florida,2018,7,9,0,738,342,31,80,58,21,3,12,7,0,2
+MD,Miami Dolphins,AFC East,Miami,Florida,2019,5,11,0,699,406,23,57,66,13,1,9,3,0,0
+MD,Miami Dolphins,AFC East,Miami,Florida,2020,10,6,0,684,343,41,87.5,76,18,0,16,11,2,1
+MD,Miami Dolphins,AFC East,Miami,Florida,2021,9,8,0,755,426,48,73,91,14,3,14,12,2,1
+MD,Miami Dolphins,AFC East,Miami,Florida,2022,9,8,0,782,421,40,75,71,8,0,13,6,3,2
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2004,14,2,0,849,289,45,0,223,20,1,23,0,3,0
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2005,10,6,0,824,300,33,0,231,10,2,8,0,0,0
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2006,12,4,0,792,332,44,0,224,22,0,14,0,0,2
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2007,16,0,0,798,257,47,0,72,19,3,20,0,3,1
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2008,11,5,0,798,289,31,0,57,14,0,13,0,0,1
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2009,10,6,0,808,298,31,0,69,18,3,18,0,0,0
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2010,14,2,0,885,294,36,0,76,25,4,11,0,1,2
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2011,13,3,0,743,383,40,0,61,23,2,10,0,1,0
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2012,12,4,0,739,318,37,0,76,20,2,32,0,4,0
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2013,12,4,0,705,426,48,0,74,17,2,11,0,1,1
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2014,12,4,0,731,325,40,0,64,16,0,16,9,2,5
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2015,12,4,0,743,305,49,0,81,12,0,24,9,2,1
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2016,12,4,0,654,366,34,60,70,13,0,19,10,0,3
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2017,13,3,0,801,225,42,76,65,12,0,9,6,0,3
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2018,11,5,0,653,356,30,67,64,18,1,16,10,1,2
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2019,12,4,0,686,274,47,77,89,25,3,15,11,2,4
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2020,7,9,0,729,349,24,59,52,18,1,5,4,1,2
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2021,10,7,0,793,444,36,60,89,23,3,12,7,0,0
+NEP,New England Patriots,AFC East,Boston,Massachusetts,2022,8,9,0,805,492,54,72,69,19,5,13,11,2,1
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2004,10,6,0,812,290,37,0,208,19,2,18,0,1,0
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2005,4,12,0,927,344,30,0,179,21,2,17,0,1,0
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2006,10,6,0,868,359,35,0,216,16,0,13,0,1,1
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2007,4,12,0,888,312,29,0,67,15,0,10,0,1,1
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2008,9,7,0,886,311,41,0,77,14,3,29,0,2,1
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2009,9,7,0,807,277,32,0,84,17,1,15,0,1,2
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2010,11,5,0,767,204,40,0,84,12,3,17,0,0,1
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2011,8,8,0,761,225,35,0,71,19,2,23,0,1,1
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2012,6,10,0,747,278,30,0,57,11,2,15,0,1,1
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2013,8,8,0,726,370,41,0,61,13,1,11,0,0,2
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2014,4,12,0,736,340,45,0,51,6,0,11,7,0,0
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2015,10,6,0,702,321,39,0,73,18,0,17,12,0,0
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2016,5,11,0,711,325,27,91,51,8,0,18,6,1,0
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2017,5,11,0,747,282,28,83,61,11,0,10,9,0,0
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2018,4,12,0,780,262,39,84.5,71,13,3,14,7,0,3
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2019,7,9,0,730,319,35,117,67,12,3,10,9,2,1
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2020,2,14,0,777,380,31,96.5,67,10,1,17,9,0,2
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2021,4,13,0,829,483,33,71,61,7,1,14,7,0,0
+NYJ,New York Jets,AFC East,Florham Park,New Jersey,2022,7,10,0,778,431,45,81,73,12,0,13,4,0,3
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2004,9,7,0,854,268,39,0,225,21,5,17,0,2,0
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2005,6,10,0,855,202,42,0,229,11,1,20,0,2,0
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2006,13,3,0,799,205,60,0,230,28,5,13,0,1,1
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2007,5,11,0,840,246,32,0,89,17,1,12,0,0,1
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2008,11,5,0,767,193,34,0,99,26,5,13,0,1,1
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2009,9,7,0,868,218,32,0,78,22,2,15,0,1,1
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2010,12,4,0,806,243,27,0,80,19,3,18,0,0,0
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2011,12,4,0,758,254,48,0,107,15,1,21,0,3,0
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2012,10,6,0,852,305,37,0,86,13,2,14,0,0,0
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2013,8,8,0,711,370,40,0,95,16,1,14,0,0,0
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2014,10,6,0,692,370,49,0,77,11,1,18,11,0,3
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2015,5,11,0,697,286,37,0,65,6,1,9,8,1,5
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2016,8,8,0,692,304,31,81,66,18,0,17,10,1,4
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2017,9,7,0,765,215,41,102,80,22,3,17,12,3,1
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2018,10,6,0,687,241,43,93.5,87,12,0,10,5,3,0
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2019,14,2,0,639,257,37,87.5,71,13,2,15,12,4,2
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2020,11,5,0,689,640,39,87.5,67,10,0,25,12,3,0
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2021,8,9,0,748,406,34,76,72,9,1,8,6,1,1
+BR,Baltimore Ravens ,AFC North,Baltimore,Maryland,2022,10,7,0,767,380,48,77,77,14,0,14,11,0,2
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2004,8,8,0,852,313,37,0,207,20,4,25,0,1,0
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2005,11,5,0,774,276,28,0,195,31,1,19,0,0,0
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2006,8,8,0,809,350,35,0,206,19,1,14,0,0,2
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2007,7,9,0,797,315,22,0,78,19,1,16,0,2,1
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2008,4,11,1,776,375,17,0,81,12,1,13,0,2,0
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2009,9,7,0,733,305,34,0,93,19,2,11,0,1,1
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2010,4,12,0,739,323,27,0,67,16,1,15,0,1,0
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2011,9,7,0,714,333,45,0,73,10,1,20,0,2,1
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2012,10,6,0,730,391,51,0,70,14,2,16,0,1,1
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2013,11,5,0,728,333,43,0,90,20,4,13,0,2,3
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2014,10,5,1,691,412,20,0,93,20,1,10,6,0,1
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2015,12,4,0,730,307,42,0,83,21,1,11,7,0,2
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2016,6,9,1,725,356,33,77,80,17,0,7,3,0,3
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2017,7,9,0,770,346,41,101,73,11,3,4,3,0,2
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2018,6,10,0,769,337,34,72,72,12,3,11,6,2,1
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2019,2,14,0,700,376,31,73.5,58,11,0,9,5,0,0
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2020,4,11,1,664,388,17,54,80,11,0,10,6,0,0
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2021,10,7,0,782,441,42,80,63,13,1,20,8,1,0
+CIB,Cincinnati Bengals,AFC North,Cincinnati,Ohio,2022,12,4,0,708,430,30,57,75,13,0,15,11,1,2
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2004,4,12,0,889,286,32,0,183,15,1,13,0,0,1
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2005,6,10,0,883,343,23,0,192,15,0,11,0,0,2
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2006,4,12,0,890,261,28,0,216,18,1,8,0,1,3
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2007,10,6,0,897,232,28,0,86,17,1,12,0,0,0
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2008,4,12,0,888,241,17,0,67,23,2,11,0,0,2
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2009,5,11,0,895,258,40,0,72,10,0,11,0,0,3
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2010,5,11,0,888,276,29,0,77,19,2,10,0,1,3
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2011,4,12,0,778,280,32,0,69,9,0,15,0,0,0
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2012,5,11,0,806,321,38,0,76,17,2,16,0,0,0
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2013,4,12,0,739,375,40,0,78,14,3,9,0,1,0
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2014,7,9,0,731,433,31,0,97,21,2,18,8,1,3
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2015,3,13,0,720,324,29,0,53,11,2,14,10,0,1
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2016,1,15,0,755,336,26,64,67,10,1,7,3,0,1
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2017,0,16,0,774,332,34,120,70,7,1,14,6,0,2
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2018,7,8,1,796,314,37,101,75,17,0,20,14,0,2
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2019,6,10,0,750,287,38,88,64,14,1,12,6,0,2
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2020,11,5,0,718,327,38,78.5,74,11,2,17,10,0,3
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2021,8,9,0,765,439,43,76,79,13,1,14,6,1,1
+CLB,Cleveland Browns,AFC North,Cleveland,Ohio,2022,7,10,0,730,440,34,69,85,11,1,12,9,2,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2004,15,1,0,710,255,41,0,215,19,3,21,0,2,0
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2005,11,5,0,823,289,47,0,234,15,0,22,0,1,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2006,8,8,0,823,290,39,0,210,20,2,13,0,0,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2007,10,6,0,738,274,36,0,77,11,2,27,0,0,0
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2008,12,4,0,784,341,51,0,87,20,2,12,0,1,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2009,9,7,0,779,247,47,0,67,12,2,14,0,1,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2010,12,4,0,802,287,48,0,88,21,3,28,0,0,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2011,12,4,0,720,278,35,0,72,11,0,14,0,1,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2012,8,8,0,717,283,37,0,77,10,1,15,0,0,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2013,8,8,0,774,297,34,0,71,10,3,19,0,0,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2014,11,5,0,704,302,33,0,53,11,4,14,10,1,0
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2015,10,6,0,795,284,48,0,76,17,2,18,13,0,2
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2016,11,5,0,742,289,38,92.5,79,13,0,18,10,1,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2017,13,3,0,713,229,56,111.5,77,16,0,13,6,0,2
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2018,9,6,1,727,282,52,98.5,67,8,2,15,7,1,3
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2019,8,8,0,796,340,54,117,83,20,1,22,18,2,1
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2020,12,4,0,726,271,56,118,84,18,3,13,9,0,0
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2021,9,7,1,865,443,55,94,80,13,0,20,9,0,2
+PS,Pittsburgh Steelers,AFC North,Pittsburgh,Pennsylvania ,2022,9,8,0,736,476,40,68,82,20,1,9,3,0,3
+HT,Houston Texans,AFC South,Houston,Texas,2004,7,9,0,824,245,24,0,186,22,2,11,0,3,1
+HT,Houston Texans,AFC South,Houston,Texas,2005,2,14,0,853,291,37,0,165,7,0,20,0,0,1
+HT,Houston Texans,AFC South,Houston,Texas,2006,6,10,0,865,213,28,0,177,11,1,13,0,2,1
+HT,Houston Texans,AFC South,Houston,Texas,2007,8,8,0,881,229,31,0,75,11,0,18,0,3,2
+HT,Houston Texans,AFC South,Houston,Texas,2008,8,8,0,816,243,25,0,59,12,1,16,0,0,0
+HT,Houston Texans,AFC South,Houston,Texas,2009,9,7,0,821,245,30,0,75,14,1,13,0,2,0
+HT,Houston Texans,AFC South,Houston,Texas,2010,6,10,0,830,305,30,0,56,13,0,14,0,0,1
+HT,Houston Texans,AFC South,Houston,Texas,2011,10,6,0,717,202,44,0,97,17,1,16,0,1,2
+HT,Houston Texans,AFC South,Houston,Texas,2012,12,4,0,740,232,44,0,109,15,3,18,0,0,2
+HT,Houston Texans,AFC South,Houston,Texas,2013,2,14,0,770,216,32,0,67,7,1,12,0,0,2
+HT,Houston Texans,AFC South,Houston,Texas,2014,9,7,0,768,314,38,0,92,20,4,18,14,1,2
+HT,Houston Texans,AFC South,Houston,Texas,2015,9,7,0,721,309,45,0,90,14,2,14,11,1,1
+HT,Houston Texans,AFC South,Houston,Texas,2016,9,7,0,709,295,31,87.5,68,11,1,8,6,0,0
+HT,Houston Texans,AFC South,Houston,Texas,2017,4,12,0,732,308,32,97,57,11,2,14,5,2,0
+HT,Houston Texans,AFC South,Houston,Texas,2018,11,5,0,746,278,43,96,85,15,3,21,14,1,1
+HT,Houston Texans,AFC South,Houston,Texas,2019,10,6,0,719,327,31,67,75,12,2,14,10,0,2
+HT,Houston Texans,AFC South,Houston,Texas,2020,4,12,0,778,370,34,78,50,3,1,9,6,0,2
+HT,Houston Texans,AFC South,Houston,Texas,2021,4,13,0,837,465,32,81,64,17,1,17,8,0,0
+HT,Houston Texans,AFC South,Houston,Texas,2022,3,13,1,906,455,39,95,65,16,1,18,11,1,0
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2004,12,4,0,926,256,45,0,193,19,2,27,0,1,2
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2005,14,2,0,867,283,46,0,166,18,2,27,0,2,0
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2006,12,4,0,881,293,25,0,149,15,0,20,0,1,0
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2007,13,3,0,886,255,28,0,62,22,1,20,0,1,1
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2008,12,4,0,903,278,30,0,48,15,2,22,0,3,0
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2009,14,2,0,954,273,34,0,68,16,2,14,0,0,0
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2010,10,6,0,874,292,30,0,54,10,2,14,0,1,1
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2011,2,14,0,745,508,29,0,47,8,2,14,0,1,1
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2012,11,5,0,717,272,32,0,65,12,4,6,0,0,0
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2013,11,5,0,732,305,42,0,72,15,1,23,0,0,2
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2014,11,5,0,718,274,41,0,78,12,1,24,14,1,1
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2015,8,8,0,725,328,35,0,72,17,4,14,8,1,0
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2016,8,8,0,738,253,33,61,60,8,0,15,9,1,2
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2017,4,12,0,689,334,25,78,68,13,1,11,7,0,3
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2018,10,6,0,769,333,38,108.5,60,15,0,15,11,0,2
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2019,7,9,0,767,287,41,88.5,50,15,1,14,8,0,0
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2020,11,5,0,773,257,40,87.5,77,15,4,14,10,0,1
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2021,9,8,0,839,354,33,56,69,19,0,19,14,1,2
+IC,Indianapolis Colts,AFC South,Indianapolis,Indiana,2022,4,12,1,830,437,44,91,62,10,2,15,11,0,3
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2004,9,7,0,810,209,37,0,191,16,0,14,0,0,1
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2005,12,4,0,807,185,47,0,197,19,2,17,0,0,2
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2006,8,8,0,785,156,35,0,229,20,1,8,0,0,2
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2007,11,5,0,799,152,37,0,63,20,2,15,0,1,0
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2008,5,11,0,798,108,29,0,56,13,2,11,0,1,1
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2009,7,9,0,851,184,14,0,56,15,0,15,0,0,0
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2010,8,8,0,787,201,26,0,48,13,0,11,0,0,1
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2011,5,11,0,722,309,31,0,62,17,0,22,0,3,1
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2012,2,14,0,882,202,20,0,56,12,0,12,0,0,1
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2013,4,12,0,836,216,31,0,71,11,1,16,0,1,1
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2014,3,13,0,809,330,45,0,48,6,1,19,14,2,0
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2015,5,11,0,826,249,36,0,71,9,1,14,9,2,3
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2016,3,13,0,784,182,33,93,53,7,1,12,6,0,2
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2017,10,6,0,750,200,55,109,77,21,2,17,12,5,2
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2018,5,11,0,760,191,37,87.5,49,11,2,8,6,0,0
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2019,6,10,0,708,295,47,91.5,60,10,1,13,9,1,2
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2020,1,15,0,774,355,18,66,60,12,1,12,5,0,1
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2021,3,14,0,790,452,32,63,50,7,0,12,2,1,2
+JJ,Jacksonville Jaguars,AFC South,Jacksonville,Florida,2022,9,8,0,809,473,35,80,95,14,2,18,13,2,0
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2004,5,11,0,826,262,32,0,191,18,1,11,0,1,1
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2005,4,12,0,799,295,41,0,174,9,2,12,0,2,3
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2006,8,8,0,893,331,26,0,195,17,2,10,0,3,3
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2007,10,6,0,830,221,40,0,86,22,2,16,0,0,2
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2008,13,3,0,859,227,44,0,86,20,3,23,0,0,2
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2009,8,8,0,902,273,32,0,63,20,4,13,0,0,1
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2010,6,10,0,989,290,40,0,71,17,1,20,0,0,2
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2011,9,7,0,811,243,28,0,70,11,1,16,0,0,2
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2012,6,10,0,817,331,39,0,66,19,4,13,0,1,2
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2013,7,9,0,790,226,36,0,83,13,1,16,0,2,2
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2014,2,14,0,813,292,39,0,72,12,1,5,4,1,2
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2015,3,13,0,734,291,39,0,56,11,1,15,8,1,1
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2016,9,7,0,715,224,40,76,75,12,0,4,6,1,0
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2017,9,7,0,732,304,43,86.5,71,12,0,11,9,1,0
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2018,9,7,0,747,323,39,84,63,11,2,14,6,0,0
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2019,9,7,0,756,377,43,88.5,72,14,1,11,9,2,4
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2020,11,5,0,759,345,19,62,81,15,0,12,8,2,1
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2021,12,5,0,771,388,43,69,83,16,2,16,6,2,1
+TT,Tennessee Titans,AFC South,Nashville,Tennessee,2022,7,10,0,858,419,39,76,78,14,1,11,6,1,1
+DB,Denver Broncos,AFC West,Denver,Colorado,2004,10,6,0,747,232,38,0,212,12,2,17,0,0,1
+DB,Denver Broncos,AFC West,Denver,Colorado,2005,13,3,0,753,155,28,0,269,20,3,22,0,0,1
+DB,Denver Broncos,AFC West,Denver,Colorado,2006,9,7,0,863,239,35,0,211,17,2,24,0,0,1
+DB,Denver Broncos,AFC West,Denver,Colorado,2007,7,9,0,839,201,33,0,66,14,0,21,0,2,1
+DB,Denver Broncos,AFC West,Denver,Colorado,2008,8,8,0,862,230,26,0,51,6,0,9,0,2,0
+DB,Denver Broncos,AFC West,Denver,Colorado,2009,8,8,0,830,207,39,0,80,17,0,20,0,2,1
+DB,Denver Broncos,AFC West,Denver,Colorado,2010,4,12,0,900,178,23,0,76,10,0,14,0,1,0
+DB,Denver Broncos,AFC West,Denver,Colorado,2011,8,8,0,836,218,41,0,59,9,3,12,0,0,0
+DB,Denver Broncos,AFC West,Denver,Colorado,2012,13,3,0,737,256,52,0,84,16,5,20,0,1,1
+DB,Denver Broncos,AFC West,Denver,Colorado,2013,13,3,0,768,241,41,0,92,17,1,18,0,1,2
+DB,Denver Broncos,AFC West,Denver,Colorado,2014,12,4,0,768,196,41,0,90,18,2,15,7,1,2
+DB,Denver Broncos,AFC West,Denver,Colorado,2015,12,4,0,773,221,52,0,82,14,4,25,13,1,2
+DB,Denver Broncos,AFC West,Denver,Colorado,2016,9,7,0,785,259,42,67.5,79,14,3,17,13,1,2
+DB,Denver Broncos,AFC West,Denver,Colorado,2017,5,11,0,703,234,33,89.5,62,10,2,8,7,2,3
+DB,Denver Broncos,AFC West,Denver,Colorado,2018,6,10,0,747,301,44,83.5,79,17,2,13,11,0,4
+DB,Denver Broncos,AFC West,Denver,Colorado,2019,7,9,0,700,353,40,91,70,10,0,9,7,1,1
+DB,Denver Broncos,AFC West,Denver,Colorado,2020,5,11,0,752,304,42,76,64,10,0,12,6,0,2
+DB,Denver Broncos,AFC West,Denver,Colorado,2021,7,10,0,676,400,36,65,73,13,1,6,6,0,3
+DB,Denver Broncos,AFC West,Denver,Colorado,2022,5,12,0,781,475,36,64,67,15,0,18,8,0,1
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2004,7,9,0,809,140,41,0,210,13,1,13,0,1,0
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2005,10,6,0,804,151,29,0,234,16,1,20,0,1,2
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2006,9,7,0,880,153,32,0,192,15,0,23,0,0,2
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2007,4,12,0,878,178,37,0,69,14,0,14,0,1,2
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2008,2,14,0,909,223,10,0,57,13,2,20,0,1,0
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2009,4,12,0,914,165,22,0,81,15,2,11,0,1,1
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2010,10,6,0,797,255,38,0,95,14,3,21,0,0,0
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2011,7,9,0,745,247,29,0,84,20,2,14,0,0,0
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2012,2,14,0,783,144,27,0,65,7,0,17,0,1,1
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2013,11,5,0,820,133,47,0,96,21,5,14,0,2,0
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2014,9,7,0,824,152,46,0,76,6,1,16,7,1,0
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2015,11,5,0,769,165,47,0,89,22,4,13,7,2,2
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2016,12,4,0,786,184,28,77,100,18,4,19,15,1,0
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2017,10,6,0,740,216,31,93.5,84,16,0,13,10,3,1
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2018,12,4,0,777,306,52,89.5,64,15,3,25,12,1,1
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2019,12,4,0,713,320,45,79.5,65,16,1,13,7,2,2
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2020,14,2,0,686,294,32,59,64,16,2,13,6,0,1
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2021,12,5,0,738,385,31,55,69,15,2,18,14,2,1
+KCC,Kansas City Chiefs,AFC West,Kansas City,Kansas,2022,14,3,0,757,492,55,89,85,11,2,13,9,0,0
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2004,5,11,0,928,241,25,0,195,9,1,9,0,0,4
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2005,4,12,0,902,178,36,0,190,5,0,15,0,1,3
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2006,2,14,0,890,184,34,0,165,18,2,9,0,2,0
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2007,4,12,0,825,171,27,0,69,18,2,13,0,0,2
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2008,5,11,0,875,228,32,0,70,16,0,15,0,0,1
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2009,5,11,0,914,195,37,0,69,8,0,13,0,0,0
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2010,8,8,0,802,210,47,0,64,12,2,18,0,1,2
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2011,8,8,0,799,200,39,0,88,18,0,8,0,1,4
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2012,4,12,0,776,262,25,0,54,11,0,10,0,0,3
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2013,4,12,0,836,233,38,0,40,9,1,21,0,2,4
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2014,3,13,0,814,236,22,0,58,9,0,14,5,1,2
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2015,7,9,0,819,198,38,0,89,14,1,15,11,0,5
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2016,12,4,0,747,206,25,65,70,16,1,21,14,0,2
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2017,6,10,0,769,287,31,90,55,5,0,12,9,0,2
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2018,4,12,0,727,281,13,58.5,67,14,1,5,3,0,1
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2019,7,9,0,721,234,32,89,67,9,2,9,6,0,0
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2020,8,8,0,718,301,21,71.5,73,10,0,8,5,0,2
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2021,10,7,0,766,494,35,65,74,6,0,17,9,0,0
+LVR,Las Vegas Raiders,AFC West,Las Vegas,Nevada,2022,6,11,0,763,475,27,68,55,6,1,11,7,2,2
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2004,12,4,0,825,248,29,0,235,23,1,12,0,0,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2005,9,7,0,855,236,46,0,229,10,2,16,0,0,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2006,14,2,0,817,299,61,0,231,16,0,17,0,3,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2007,11,5,0,872,245,42,0,89,30,2,19,0,3,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2008,8,8,0,913,242,28,0,75,15,2,14,0,1,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2009,13,3,0,860,245,35,0,65,14,1,19,0,2,1
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2010,9,7,0,817,178,47,0,67,16,3,12,0,0,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2011,8,8,0,804,241,32,0,65,17,1,7,0,1,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2012,7,9,0,814,260,38,0,70,14,5,20,0,2,1
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2013,9,7,0,818,206,35,0,62,11,1,13,0,0,2
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2014,9,7,0,831,266,26,0,58,7,0,17,11,3,2
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2015,4,12,0,789,211,32,0,61,11,1,13,9,0,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2016,5,11,0,790,221,35,108,83,18,3,16,10,2,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2017,9,7,0,831,289,43,103.5,75,18,2,13,9,2,1
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2018,12,4,0,722,334,38,78,73,13,1,9,7,1,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2019,5,11,0,723,305,30,76,45,11,0,6,3,0,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2020,7,9,0,689,332,27,63,54,12,2,6,7,0,2
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2021,9,8,0,801,459,35,65,56,11,0,19,10,1,0
+LAC,Los Angeles Chargers,AFC West,Costa Mesa,California,2022,10,7,0,692,391,40,77,64,14,1,17,10,0,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2004,6,10,0,788,201,33,0,192,13,0,16,0,0,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2005,9,7,0,748,192,37,0,224,15,2,17,0,0,0
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2006,9,7,0,791,218,34,0,210,18,3,21,0,1,0
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2007,13,3,0,799,242,46,0,84,19,2,20,0,1,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2008,9,7,0,781,265,59,0,60,8,1,17,0,0,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2009,11,5,0,768,212,42,0,88,11,1,17,0,0,2
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2010,6,10,0,812,197,35,0,61,20,3,16,0,1,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2011,8,8,0,756,223,42,0,57,15,1,14,0,0,2
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2012,8,8,0,716,347,34,0,54,7,1,15,0,2,0
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2013,8,8,0,824,254,34,0,64,15,2,13,0,3,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2014,12,4,0,756,245,28,0,69,18,2,15,13,1,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2015,4,12,0,738,329,31,0,52,8,1,7,3,0,3
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2016,13,3,0,726,301,36,97.5,64,9,0,19,11,0,0
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2017,9,7,0,741,381,38,109,60,10,1,27,11,0,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2018,10,6,0,717,303,39,90,64,9,0,14,11,1,0
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2019,8,8,0,694,346,39,93,71,7,0,14,10,1,0
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2020,6,10,0,698,386,31,69.5,46,10,0,16,13,2,1
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2021,12,5,0,730,349,41,72,83,26,5,13,8,1,4
+DC,Dallas Cowboys,NFC East,Dallas,Texas,2022,12,5,0,818,386,54,93,59,16,0,24,17,3,2
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2004,6,10,0,882,267,40,0,175,14,0,18,0,2,0
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2005,11,5,0,877,228,41,0,251,17,1,19,0,1,3
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2006,8,8,0,901,219,32,0,234,17,2,17,0,1,0
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2007,10,6,0,831,218,53,0,75,15,3,16,0,2,1
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2008,12,4,0,795,241,42,0,75,17,2,15,0,0,3
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2009,8,8,0,841,260,32,0,79,13,2,21,0,1,4
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2010,10,6,0,841,256,46,0,87,16,0,38,0,0,2
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2011,9,7,0,861,270,48,0,84,20,0,16,0,1,1
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2012,9,7,0,854,308,33,0,71,21,1,21,0,1,0
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2013,7,9,0,881,286,34,0,79,17,2,17,0,0,1
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2014,6,10,0,805,283,47,0,71,17,0,16,8,1,1
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2015,6,10,0,893,323,23,0,82,15,2,19,12,2,3
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2016,11,5,0,813,315,35,90,97,17,1,17,8,2,2
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2017,3,13,0,837,327,27,81,70,13,2,13,6,0,1
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2018,5,11,0,789,312,30,87,73,16,3,13,5,0,0
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2019,4,12,0,753,374,36,104,65,10,1,9,6,1,2
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2020,6,10,0,740,404,40,90,75,11,1,14,11,1,0
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2021,4,13,0,789,596,34,53,83,15,1,14,7,0,0
+NYG,New York Giants,NFC East,East Rutherford,New Jersey,2022,9,7,1,779,436,41,73,75,6,1,22,13,1,2
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2004,13,3,0,864,162,47,0,216,17,2,19,0,0,1
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2005,6,10,0,894,157,29,0,206,17,1,22,0,1,1
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2006,10,6,0,862,274,40,0,216,19,4,19,0,1,0
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2007,8,8,0,800,227,37,0,64,11,0,10,0,2,0
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2008,9,6,1,812,204,48,0,92,15,2,22,0,3,1
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2009,11,5,0,874,188,44,0,95,25,2,15,0,2,1
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2010,10,6,0,826,124,39,0,90,23,1,12,0,1,0
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2011,8,8,0,780,183,50,0,63,15,1,11,0,3,2
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2012,4,12,0,805,190,30,0,75,8,0,17,0,0,1
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2013,10,6,0,862,219,37,0,92,19,1,15,0,1,1
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2014,10,6,0,862,206,49,0,83,12,2,26,16,2,6
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2015,7,9,0,858,266,37,0,79,15,3,19,11,1,1
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2016,7,9,0,702,251,34,91,73,16,3,18,10,0,3
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2017,13,3,0,708,227,38,104,87,19,1,16,12,5,5
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2018,9,7,0,756,226,44,100,65,10,0,12,7,0,0
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2019,9,7,0,667,268,43,104,82,11,1,15,9,2,2
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2020,4,11,1,794,347,49,114.5,43,8,1,14,11,2,2
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2021,9,8,0,726,537,29,71,56,12,2,15,4,3,2
+PE,Philadelphia Eagles,NFC East,Philadelphia,Pennsylvania ,2022,14,3,0,796,383,70,97,85,17,2,15,10,0,0
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2004,6,10,0,822,186,40,0,221,18,1,13,0,0,3
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2005,10,6,0,800,149,35,0,244,16,1,20,0,1,2
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2006,5,11,0,872,240,19,0,197,6,0,12,0,0,3
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2007,9,7,0,837,262,33,0,83,14,2,18,0,0,2
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2008,8,8,0,751,278,24,0,89,13,0,11,0,0,0
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2009,4,12,0,847,249,40,0,74,11,0,17,0,0,0
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2010,6,10,0,838,383,29,0,89,14,1,23,0,1,2
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2011,5,11,0,724,386,41,0,72,13,1,17,0,0,1
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2012,10,6,0,726,371,32,0,88,21,3,12,0,3,1
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2013,3,13,0,754,352,36,0,57,16,4,12,0,1,0
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2014,4,12,0,770,291,36,0,44,7,0,14,12,0,0
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2015,9,7,0,694,374,38,0,59,11,1,23,15,1,1
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2016,8,7,1,771,317,38,90,74,13,0,19,8,0,1
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2017,7,9,0,757,334,42,82,87,16,2,12,7,0,1
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2018,7,9,0,736,312,46,82,56,15,0,20,11,1,0
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2019,3,13,0,796,347,46,88,52,13,0,16,9,0,1
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2020,7,9,0,689,340,47,94.5,66,16,2,14,7,1,0
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2021,7,10,0,761,441,38,59,61,11,2,9,8,0,1
+WC,Washington Commanders,NFC East,Landover Hills,Maryland,2022,8,8,1,684,428,43,89,68,9,2,9,9,1,1
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2004,5,11,0,886,228,35,0,228,17,5,20,0,1,1
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2005,11,5,0,881,198,41,0,237,24,4,21,0,0,2
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2006,13,3,0,884,230,40,0,253,24,1,27,0,2,1
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2007,7,9,0,926,185,41,0,62,16,1,24,0,0,8
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2008,9,7,0,918,172,28,0,99,22,1,8,0,3,4
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2009,7,9,0,894,225,35,0,53,13,1,25,0,0,2
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2010,11,5,0,835,190,34,0,73,21,1,23,0,0,2
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2011,8,8,0,781,188,33,0,65,20,4,15,0,3,3
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2012,10,6,0,733,226,41,0,91,24,8,29,0,1,2
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2013,8,8,0,769,226,31,0,62,19,5,21,0,1,0
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2014,5,11,0,749,292,39,0,54,14,1,21,10,0,3
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2015,6,10,0,762,180,35,0,52,8,0,6,9,0,2
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2016,3,13,0,798,214,37,76,68,8,1,13,3,1,1
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2017,5,11,0,781,228,42,79.5,65,8,2,17,14,1,1
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2018,12,4,0,741,203,50,97,92,27,5,19,9,1,0
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2019,8,8,0,749,231,32,64.5,67,10,1,12,9,0,0
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2020,8,8,0,723,330,35,78.5,71,10,0,15,8,1,1
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2021,6,11,0,783,417,49,77,56,8,1,16,8,1,0
+CHB,Chicago Bears,NFC North,Chicago,Illinois,2022,3,14,0,812,411,20,67,50,14,0,18,9,0,1
+DL,Detroit Lions,NFC North,Detroit,Michigan,2004,6,10,0,856,267,38,0,207,14,1,17,0,0,3
+DL,Detroit Lions,NFC North,Detroit,Michigan,2005,5,11,0,817,252,31,0,192,19,2,20,0,1,2
+DL,Detroit Lions,NFC North,Detroit,Michigan,2006,3,13,0,873,279,30,0,172,12,1,17,0,0,4
+DL,Detroit Lions,NFC North,Detroit,Michigan,2007,7,9,0,903,274,37,0,59,17,3,25,0,1,4
+DL,Detroit Lions,NFC North,Detroit,Michigan,2008,0,16,0,854,301,30,0,44,4,0,22,0,1,1
+DL,Detroit Lions,NFC North,Detroit,Michigan,2009,2,14,0,829,300,26,0,71,9,2,18,0,1,2
+DL,Detroit Lions,NFC North,Detroit,Michigan,2010,6,10,0,842,273,44,0,62,14,2,26,0,1,0
+DL,Detroit Lions,NFC North,Detroit,Michigan,2011,10,6,0,793,231,41,0,73,21,5,17,0,2,1
+DL,Detroit Lions,NFC North,Detroit,Michigan,2012,4,12,0,779,239,34,0,63,11,0,13,0,0,1
+DL,Detroit Lions,NFC North,Detroit,Michigan,2013,7,9,0,710,242,33,0,84,15,1,14,0,1,0
+DL,Detroit Lions,NFC North,Detroit,Michigan,2014,11,5,0,724,202,42,0,73,20,1,11,7,1,2
+DL,Detroit Lions,NFC North,Detroit,Michigan,2015,7,9,0,799,214,43,0,57,9,1,17,9,1,0
+DL,Detroit Lions,NFC North,Detroit,Michigan,2016,9,7,0,758,227,26,64.5,62,10,1,9,4,0,1
+DL,Detroit Lions,NFC North,Detroit,Michigan,2017,9,7,0,786,242,35,87,77,19,3,19,13,2,3
+DL,Detroit Lions,NFC North,Detroit,Michigan,2018,6,10,0,732,207,43,74,46,7,2,11,7,0,0
+DL,Detroit Lions,NFC North,Detroit,Michigan,2019,3,12,1,807,288,28,60,73,7,0,16,11,1,0
+DL,Detroit Lions,NFC North,Detroit,Michigan,2020,5,11,0,778,351,24,75,52,7,0,15,5,0,4
+DL,Detroit Lions,NFC North,Detroit,Michigan,2021,3,13,1,805,459,30,58,68,11,0,10,8,0,1
+DL,Detroit Lions,NFC North,Detroit,Michigan,2022,9,8,0,822,383,39,76,62,12,1,15,10,0,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2004,10,6,0,817,223,40,0,204,8,2,13,0,3,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2005,4,12,0,841,291,35,0,178,10,2,14,0,0,3
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2006,8,8,0,814,284,46,0,229,23,4,17,0,1,0
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2007,13,3,0,805,210,36,0,71,19,1,13,0,3,0
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2008,6,10,0,823,221,27,0,88,22,6,14,0,1,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2009,11,5,0,769,213,37,0,96,30,3,12,0,1,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2010,10,6,0,796,222,47,0,86,24,3,16,0,1,0
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2011,15,1,0,781,248,29,0,98,31,4,14,0,1,0
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2012,11,5,0,729,295,47,0,90,18,1,8,0,1,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2013,8,7,1,764,294,44,0,66,11,0,19,0,3,2
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2014,12,4,0,787,279,61,0,84,18,3,14,9,1,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2015,10,6,0,755,224,43,0,70,16,2,13,6,1,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2016,10,6,0,744,207,40,94,85,17,0,10,8,0,0
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2017,7,9,0,780,299,37,102,62,11,1,10,11,1,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2018,6,9,1,761,264,44,79.5,59,7,1,11,8,0,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2019,13,3,0,684,306,41,76,74,17,0,12,8,0,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2020,13,3,0,687,320,41,72.5,74,11,1,12,7,1,0
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2021,13,4,0,779,315,39,51,74,18,2,12,8,0,1
+GBP,Green Bay Packers,NFC North,Green Bay,Wisconsin,2022,8,9,0,784,433,34,68,63,17,2,13,7,0,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2004,8,8,0,832,267,39,0,206,11,1,17,0,1,0
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2005,9,7,0,857,233,34,0,214,24,3,12,0,0,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2006,6,10,0,780,204,30,0,244,21,3,14,0,3,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2007,8,8,0,883,201,38,0,73,15,6,22,0,2,0
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2008,10,6,0,822,201,45,0,66,12,0,22,0,2,3
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2009,12,4,0,832,155,48,0,62,11,0,23,0,1,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2010,6,10,0,797,248,31,0,63,15,1,13,0,1,0
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2011,3,13,0,798,311,50,0,50,8,0,20,0,0,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2012,10,6,0,798,279,44,0,73,10,3,19,0,0,4
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2013,5,10,1,813,342,41,0,59,12,0,13,0,1,0
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2014,7,9,0,778,262,41,0,64,13,2,10,6,2,3
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2015,11,5,0,827,186,43,0,64,13,2,14,9,1,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2016,8,8,0,672,315,41,71,58,14,2,13,13,2,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2017,13,3,0,653,289,37,85,69,14,1,11,5,0,0
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2018,8,7,1,733,285,50,101,62,12,1,9,8,2,0
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2019,10,6,0,757,291,48,98.5,83,17,1,19,14,1,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2020,7,9,0,709,400,23,62.5,56,15,0,11,7,0,2
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2021,8,9,0,817,463,51,61,68,16,2,13,8,0,1
+MV,Minnesota Vikings,NFC North,Minneapolis,Minnesota,2022,13,4,0,875,395,38,81,87,15,0,12,10,1,3
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2004,11,5,0,852,147,48,0,189,19,4,19,0,1,2
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2005,8,8,0,841,197,37,0,206,16,0,14,0,2,1
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2006,7,9,0,840,211,37,0,194,12,1,19,0,1,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2007,4,12,0,904,124,25,0,69,16,0,16,0,1,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2008,11,5,0,837,177,34,0,75,10,2,10,0,1,2
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2009,9,7,0,840,202,28,0,63,15,1,20,0,2,3
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2010,13,3,0,798,196,31,0,70,22,2,16,0,1,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2011,10,6,0,688,291,33,0,80,19,2,14,0,1,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2012,13,3,0,754,196,29,0,83,20,1,15,0,1,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2013,4,12,0,727,323,32,0,57,10,2,13,0,1,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2014,6,10,0,724,336,22,0,66,16,1,16,12,1,3
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2015,8,8,0,756,237,19,0,61,15,1,12,8,3,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2016,11,5,0,727,303,34,81,85,12,3,17,10,2,2
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2017,10,6,0,713,305,39,88,64,8,0,13,8,3,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2018,7,9,0,740,323,37,68.5,66,15,1,8,4,1,1
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2019,7,9,0,664,394,28,86.5,57,12,1,17,8,1,1
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2020,4,12,0,721,341,29,82,51,12,1,17,9,0,0
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2021,7,10,0,783,516,18,58,77,12,2,18,8,0,1
+AF,Atlanta Falcons,NFC South,Atlanta,Georgia,2022,7,10,0,722,554,21,57,69,10,1,8,7,1,3
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2004,7,9,0,859,196,34,0,210,26,2,19,0,1,2
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2005,11,5,0,807,198,45,0,223,23,2,19,0,1,2
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2006,8,8,0,841,225,41,0,209,14,2,15,0,0,2
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2007,4,12,0,891,193,23,0,67,14,1,18,0,1,2
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2008,12,4,0,857,161,37,0,83,12,0,18,0,2,1
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2009,8,8,0,842,205,31,0,66,22,1,23,0,0,1
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2010,2,14,0,891,236,31,0,69,17,1,15,0,0,1
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2011,6,10,0,742,260,31,0,70,14,0,14,0,0,0
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2012,7,9,0,723,361,39,0,65,11,3,18,0,1,0
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2013,12,4,0,712,293,60,0,64,20,4,11,0,0,1
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2014,7,8,1,682,317,40,0,70,14,2,24,12,0,0
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2015,15,1,0,713,336,44,0,81,24,4,24,15,1,0
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2016,6,10,0,736,331,47,100,68,17,1,19,10,2,3
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2017,11,5,0,637,322,50,100.5,53,10,0,17,11,1,1
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2018,7,9,0,667,297,35,107,69,13,0,13,10,1,0
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2019,5,11,0,727,315,53,95,67,14,0,8,7,1,2
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2020,5,11,0,638,409,29,72,58,7,0,14,15,3,1
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2021,5,12,0,762,436,39,84,52,9,0,17,7,0,1
+CAP,Carolina Panthers,NFC South,Charlotte,North Carolina,2022,7,10,0,794,464,35,88,62,10,2,11,7,2,5
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2004,8,8,0,911,216,37,0,221,13,0,25,0,1,2
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2005,3,13,0,842,235,25,0,177,10,0,9,0,0,1
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2006,10,6,0,797,231,38,0,207,11,0,15,0,1,2
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2007,7,9,0,835,183,32,0,73,13,3,18,0,2,1
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2008,8,8,0,848,201,28,0,91,15,0,10,0,0,0
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2009,13,3,0,871,212,35,0,83,26,5,15,0,3,0
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2010,11,5,0,823,220,33,0,68,9,2,28,0,0,1
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2011,13,3,0,678,245,33,0,90,9,1,20,0,2,2
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2012,7,9,0,749,328,30,0,90,15,4,12,0,0,2
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2013,11,5,0,650,290,49,0,65,12,0,16,0,0,0
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2014,7,9,0,748,262,34,0,59,12,0,12,5,0,0
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2015,7,9,0,722,297,31,0,68,9,0,21,13,1,3
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2016,7,9,0,746,258,30,77,67,9,0,11,12,0,0
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2017,11,5,0,706,254,42,93.5,99,20,2,19,5,1,1
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2018,13,3,0,713,256,49,98,66,12,1,19,12,0,2
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2019,13,3,0,677,239,51,96,78,13,2,11,10,1,1
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2020,12,4,0,653,279,45,98.5,84,18,1,7,8,0,1
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2021,9,8,0,789,406,46,88,81,18,2,14,7,0,2
+NOS,New Orleans Saints,NFC South,New Orleans,Louisiana,2022,7,10,0,764,436,48,77,67,7,1,16,7,0,1
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2004,5,11,0,844,196,45,0,189,16,1,16,0,2,1
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2005,11,5,0,819,236,36,0,201,17,0,17,0,3,1
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2006,4,12,0,897,263,25,0,192,11,3,19,0,0,3
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2007,9,7,0,859,209,33,0,68,16,1,28,0,1,1
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2008,9,7,0,824,203,29,0,73,22,3,13,0,1,2
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2009,3,13,0,909,197,28,0,63,19,2,11,0,0,6
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2010,10,6,0,844,197,26,0,70,19,3,13,0,0,0
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2011,4,12,0,818,171,23,0,59,14,3,13,0,1,1
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2012,7,9,0,803,198,27,0,79,18,3,13,0,0,3
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2013,4,12,0,781,259,35,0,69,21,3,17,0,0,2
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2014,2,14,0,870,295,36,0,63,14,3,18,11,0,1
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2015,6,10,0,818,337,38,0,66,11,1,20,12,2,2
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2016,9,7,0,798,185,38,89,81,17,4,16,12,0,0
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2017,5,11,0,817,239,22,71.5,55,13,1,21,13,3,3
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2018,5,11,0,828,198,38,96,53,9,0,13,8,2,0
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2019,7,9,0,732,257,47,107.5,96,12,2,21,16,4,0
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2020,11,5,0,713,301,48,108.5,70,15,1,15,10,0,1
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2021,13,4,0,786,340,47,81,85,17,2,17,12,0,0
+TBB,Tampa Bay Buccaneers,NFC South,Tampa,Florida,2022,8,9,0,800,413,44,89,59,10,1,12,10,0,1
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2004,6,10,0,811,197,38,0,234,15,1,20,0,1,2
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2005,5,11,0,811,176,37,0,187,15,3,18,0,0,1
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2006,5,11,0,890,156,38,0,201,16,1,21,0,2,1
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2007,8,8,0,871,162,36,0,66,18,6,14,0,1,0
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2008,9,7,0,862,182,31,0,75,13,2,20,0,1,2
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2009,10,6,0,882,167,43,0,87,21,1,12,0,0,3
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2010,5,11,0,921,196,33,0,80,17,3,15,0,7,3
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2011,8,8,0,880,214,42,0,85,10,0,13,0,0,5
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2012,5,11,0,809,204,38,0,73,22,2,14,0,1,3
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2013,10,6,0,825,128,47,0,96,20,4,11,0,1,2
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2014,11,5,0,797,159,35,0,61,18,3,11,7,1,3
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2015,13,3,0,764,151,36,0,69,19,4,25,14,2,0
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2016,7,8,1,789,199,48,122,66,14,2,25,14,1,2
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2017,8,8,0,785,198,37,96.5,72,15,1,18,6,1,0
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2018,3,13,0,859,246,49,118,51,7,0,13,9,2,1
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2019,5,10,1,807,342,40,116,56,7,0,19,10,0,0
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2020,8,8,0,779,297,48,104,57,11,0,15,10,0,2
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2021,11,6,0,754,387,41,76,73,13,1,22,14,1,0
+ARC,Arizona Cardinals,NFC West,Phoenix,Arizona,2022,4,13,0,809,421,36,87,77,11,3,13,9,2,1
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2004,8,8,0,871,169,34,0,200,6,0,13,0,3,0
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2005,6,10,0,881,175,41,0,193,13,2,19,0,0,2
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2006,8,8,0,840,94,34,0,185,17,1,19,0,1,0
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2007,3,13,0,864,142,31,0,71,18,2,17,0,0,1
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2008,2,14,0,883,147,30,0,53,12,0,18,0,1,0
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2009,1,15,0,882,125,25,0,51,8,1,15,0,0,0
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2010,7,9,0,861,139,43,0,78,14,0,27,0,0,2
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2011,2,14,0,841,195,39,0,65,12,1,19,0,0,1
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2012,7,8,1,842,183,52,0,57,17,4,14,0,1,2
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2013,7,9,0,814,174,53,0,71,14,2,24,0,3,1
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2014,6,10,0,847,178,40,0,66,13,3,18,12,0,3
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2015,7,9,0,801,331,41,0,68,13,1,22,13,2,0
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2016,4,12,0,779,223,31,102,72,10,0,13,8,1,2
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2017,11,5,0,741,234,48,87,94,18,3,17,10,0,5
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2018,13,3,0,699,274,41,84,65,18,3,14,12,1,2
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2019,9,7,0,723,376,50,100.5,76,13,2,15,11,2,0
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2020,10,6,0,686,343,53,81.5,68,14,3,12,8,1,1
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2021,12,5,0,793,456,50,85,70,19,0,16,6,0,0
+LAR,Los Angeles Rams,NFC West,Agoura Hills,California,2022,5,12,0,760,450,38,68,58,16,1,11,6,0,1
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2004,2,14,0,871,220,29,0,182,9,0,18,0,2,1
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2005,4,12,0,902,237,28,0,202,16,3,12,0,2,1
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2006,7,9,0,862,238,34,0,187,14,1,17,0,1,1
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2007,5,11,0,877,277,31,0,66,12,0,12,0,1,2
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2008,7,9,0,831,255,30,0,73,12,1,12,0,1,3
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2009,8,8,0,874,227,44,0,69,18,1,23,0,2,2
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2010,6,10,0,892,192,36,0,63,15,3,14,0,0,1
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2011,13,3,0,756,172,42,0,101,23,1,20,0,0,0
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2012,11,4,1,780,232,38,0,77,14,2,18,0,2,2
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2013,12,4,0,815,189,38,0,80,18,2,13,0,3,2
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2014,8,8,0,767,180,36,0,86,23,2,10,6,1,1
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2015,5,11,0,878,253,28,0,58,6,1,5,3,0,4
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2016,2,14,0,863,280,33,80,70,10,0,18,10,0,2
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2017,6,10,0,823,237,30,92.5,56,10,1,21,10,0,0
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2018,4,12,0,789,242,37,90.5,37,2,1,13,5,0,0
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2019,13,3,0,717,283,48,108.5,74,12,3,23,15,2,0
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2020,6,10,0,717,306,30,78.5,62,12,1,13,8,0,1
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2021,10,7,0,774,441,45,98,55,9,2,22,11,0,1
+SFS,San Francisco 49ers,NFC West,San Francisco,California,2022,13,4,0,759,439,44,77,78,20,2,19,10,1,0
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2004,9,7,0,915,279,36,0,219,23,3,19,0,0,0
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2005,13,3,0,894,241,50,0,240,16,2,18,0,1,2
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2006,9,7,0,867,234,41,0,205,12,1,17,0,1,2
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2007,10,6,0,861,189,45,0,77,20,1,26,0,1,0
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2008,4,12,0,912,196,35,0,66,9,2,23,0,2,2
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2009,5,11,0,864,215,28,0,64,13,2,13,0,1,1
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2010,7,9,0,863,251,37,0,85,12,2,17,0,0,4
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2011,7,9,0,800,298,33,0,83,22,4,16,0,0,6
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2012,11,5,0,677,310,36,0,76,18,2,20,0,1,2
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2013,13,3,0,688,354,44,0,85,28,3,20,0,1,1
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2014,12,4,0,669,267,37,0,66,13,2,20,10,0,2
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2015,10,6,0,640,335,37,0,75,14,0,20,8,3,0
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2016,10,5,1,653,450,42,96,69,11,0,18,8,1,3
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2017,9,7,0,743,320,39,95,77,14,3,16,11,1,1
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2018,10,6,0,709,260,43,81.5,60,12,1,21,14,1,1
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2019,11,5,0,665,390,28,71.5,74,16,2,19,16,1,3
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2020,12,4,0,781,329,46,102,79,14,0,14,8,0,2
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2021,7,10,0,904,536,34,68,80,11,0,11,7,0,1
+SS,Seattle Seahawks,NFC West,Seattle,Washington,2022,9,8,0,869,417,45,75,81,14,1,21,11,0,1
