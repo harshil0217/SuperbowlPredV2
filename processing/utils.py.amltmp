@@ -83,6 +83,30 @@ team_map = {
   'Commanders': 'Washington Commanders'
 }
 
+superbowls = {
+  2002: "Tampa Bay Buccaneers",
+  2003: "New England Patriots",
+  2004: "New England Patriots",
+  2005: "Pittsburgh Steelers",
+  2006: "Indianapolis Colts",
+  2007: "New York Giants",
+  2008: "Pittsburgh Steelers",
+  2009: "New Orleans Saints",
+  2010: "Green Bay Packers",
+  2011: "New York Giants",
+  2012: "Baltimore Ravens",
+  2013: "Seattle Seahawks",
+  2014: "New England Patriots",
+  2015: "Denver Broncos",
+  2016: "New England Patriots",
+  2017: "Philadelphia Eagles",
+  2018: "New England Patriots",
+  2019: "Kansas City Chiefs",
+  2020: "Tampa Bay Buccaneers",
+  2021: "Los Angeles Rams",
+  2022: "Kansas City Chiefs"
+}
+
 
 def postseason_helper(x, date_col):
     """Check if date is in regular season or postseason
@@ -160,15 +184,77 @@ def simplify_date(data, date_col):
     return data
 
 def opp_wins_helper(x, date_col, opp_col, team_wins):
+    """
+    Helper function to retrieve the number of wins for the opponent team.
+
+    Parameters:
+        x (pandas Series): Row from the data DataFrame.
+        date_col (str): Name of column containing the game date.
+        opp_col (str): Name of column containing the opponent team. 
+        team_wins (dict): Dictionary mapping dates to opponents to wins.
+
+    Returns:
+        int: Number of wins for the opponent on the given date.
+    """
     date = x[date_col]
     opp = x[opp_col]
     wins = team_wins[date][opp]
     return wins
 
 def generate_opponent_wins(data, date_col, opp_col, team_wins):
+    """
+    Generate a new column in the data DataFrame containing opponent wins.
+
+    Parameters:
+        data (pandas DataFrame): Input data.
+        date_col (str): Name of column containing the game date.
+        opp_col (str): Name of column containing the opponent team.
+        team_wins (dict): Dictionary mapping dates to opponents to wins.
+
+    Returns:
+        pandas DataFrame: Input data with new "opponent wins" column added.
+    """
     opp_wins = data.apply(lambda x: opp_wins_helper(x, date_col, opp_col, team_wins), axis = 1)
     data["opponent wins"] = opp_wins
     return data
 
+
+def superbowl_helper(x, year_col, team_col):
+    """Check if a team won the Super Bowl in a given year
+    
+    Args:
+        x (row): Row from a dataframe
+        year_col (str): Column name with season year 
+        team_col (str): Column name with team name
+        
+    Returns:
+        int: 1 if team won Super Bowl in year, 0 otherwise
+        
+    """
+    year = x[year_col]
+    team = x[team_col]
+    winner = superbowls[year]
+    if winner == team:
+        return 1
+    else:
+        return 0
+
+
+def add_superbowl(data, year_col, team_col):
+    """Add column indicating if team won Super Bowl that year
+    
+    Args:
+        data (dataframe): Dataframe
+        year_col (str): Season year column name
+        team_col (str): Team name column name
+        
+    Returns:
+        Dataframe with new column 'Superbowl Status' indicating 1 if team 
+        won SB that year, 0 otherwise
+    """
+    
+    superbowl = data.apply(lambda x: superbowl_helper(x, year_col, team_col), axis = 1)
+    data["Superbowl Status"] = superbowl
+    return data
 
     
